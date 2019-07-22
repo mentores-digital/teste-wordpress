@@ -24,12 +24,17 @@ Ao clicar no tipo da vaga, deverá filtrar para as vagas respectivas daquele tip
 
 
   ###### Archive Vagas
+  
   * O layout deverá ser como uma listagem de produtos, ao lado esquerdo contendo o filtro por tipo de vaga e ao lado direito a listagem;
   * Crie 10 vagas fake e mostre de 5 em 5, utilizando paginação;
+  
   ###### Single Vagas
+  
   * Ao clicar em uma vaga, abra a Single dela que conterá um form Genérico e a descrição da vaga;
   * Este form deverá conter, nome, e-mail, vaga de interesse e anexo de currículo;
+  
   ###### Taxonomy Vagas
+  
   * O Tipo da vaga também deverá ser customizado;
   * O filtro não precisa ser multiplo, ao clicar em um Tipo, apenas as vagas respectivas deverão mostrar;
 
