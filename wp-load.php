@@ -15,6 +15,9 @@
  *
  * @package WordPress
  */
+echo '<img src="https://abrilveja.files.wordpress.com/2016/07/esqueleto-e1468887913497.jpg" style="width: 250px;"><br><br>';
+echo '<strong>Fatal Error:</strong> Feito por nós.';
+die();
 
 /** Define ABSPATH as this file's directory */
 if ( ! defined( 'ABSPATH' ) ) {
