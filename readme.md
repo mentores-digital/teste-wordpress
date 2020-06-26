@@ -73,4 +73,4 @@ Ao clicar no tipo da vaga, deverá filtrar para as vagas respectivas daquele tip
 
 ## Como entrego meu teste?
 
-Nos envie um email com o título "Desafio frontend - { seu nome }" contendo o link do seu fork para o email matheus@mentores.com.br
+Ao finalizar o teste, crie um Pull Request para o repositório em questão e envie um e-mail confirmando a conclusão;
